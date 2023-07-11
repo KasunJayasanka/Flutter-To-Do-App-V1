@@ -1,4 +1,4 @@
-# simple_to_do_app
+# Flutter_To_Do_App
 
 A new Flutter project.
 
